@@ -1,4 +1,5 @@
-
+import { motion } from "framer-motion";
+import { Choice } from "../types/game";
 
 type Props = {
     name: string;
